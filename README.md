@@ -17,8 +17,6 @@ This project demonstrates various image processing techniques using Python and O
 * NumPy 
 
 
-
-
 🚀 Features
 
 * Read and display an image 
@@ -42,6 +40,10 @@ This project demonstrates various image processing techniques using Python and O
 * Compute mean RGB intensity 
 
 * Intensity-invariant image processing 
+
+Google Colab provides virtual RAM and disk storage, so you can run this project without needing a high-end PC. Simply upload the script and images, and start experimenting online!
+
+Tip: If working with large images, go to Runtime > Change runtime type in Colab and select High RAM for better performance.
 
 
 
